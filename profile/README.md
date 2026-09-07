@@ -1,9 +1,7 @@
 # TREVIK
 
-**TREVIK by SORLANE**
+**Better Choice, Made Clear.**
 
-Smarter financial decisions before you pay.
+TREVIK is a consumer financial decision-support product being built to help people approach everyday choices across cards, fees, FX and payment options with greater clarity.
 
-TREVIK is being built as a consumer product for clearer, better-informed financial decisions.
-
-🌐 https://sorlanehq.com/trevik
+TREVIK by [SORLANE](https://github.com/sorlane).
